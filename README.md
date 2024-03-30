@@ -1,1 +1,1 @@
-# react-fetching-cheatsheat
+# Cheatsheet to react fetching 
