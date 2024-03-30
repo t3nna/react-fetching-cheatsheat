@@ -49,7 +49,7 @@ function Demo() {
 
   return (
     <div className="tutorial">
-      <h1 className="mb-4 text-2xl">Data Fething in React</h1>
+      <h1 className="mb-4 text-2xl">Data Fetching in React</h1>
       <button onClick={() => setPage(page + 1)}>Increase Page ({page})</button>
       {isLoading && <div>Loading...</div>}
       {!isLoading && (
